@@ -1,5 +1,6 @@
 # blood-Bank-System-Back-End-Functions
-Mobile &amp; Web-base Application for ministry of health  
+
+Mobile &amp; Web-base Application for ministry of health  (Not published yet)
 
 
 Development of Web-based Blood Bank Management System (BBMS) is proposed to provide a management functional to the blood bank in order to handle the blood.
