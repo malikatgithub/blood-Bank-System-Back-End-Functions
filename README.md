@@ -35,6 +35,20 @@ HTML5, CSS and JavaScript for web development.
 -  shows that a registered donor will get notified whenever the blood bank is need of blood, donors will receive an alert on their mobile devices and would be able to view the message on this activity.
 
 
+## Development Environment
+
+- Front End: HTML5, CSS3, Bootstrap
+- Back End: PHP, MYSQL
+- Control End: Angular Java Script
+
+Android Tools:
+
+- IDE: Android Studio
+- Android Emulator: xampp-win64-5.5.19-0-VC11
+- PHP Tools: xampp-win64-5.5.19-0-VC11
+
+
+
 ## Documentation
 
 Thank you for your time and consideration! The document guide can be found in the [PRIVILEGE documentation](https://privilege.sd/software_show/School%20Management%20System%20(SMS)).
