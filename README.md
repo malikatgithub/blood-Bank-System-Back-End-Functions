@@ -1,6 +1,6 @@
 
 
-<p align="center"><img src="https://scontent.fkrt5-2.fna.fbcdn.net/v/t1.6435-9/118497509_1001480233620251_7873125946178401628_n.png?_nc_cat=110&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeFphoaffqNCvVR9_GkWpMHEzU-cDW8OTtLNT5wNbw5O0qjHXlWBFQetEIrNCWvlOPf5Uy7NWvIEKYTjOK8bA-Tx&_nc_ohc=-0oOyBM8DwoAX_F_3P2&_nc_ht=scontent.fkrt5-2.fna&oh=00_AT8SJUBl7HVPB94wkrLjm9z8hvyCKjmraJbF_PvdIvx65A&oe=621DD7B4"></p>
+<p align="center"><img src="https://scontent.fkrt5-2.fna.fbcdn.net/v/t1.6435-9/118497509_1001480233620251_7873125946178401628_n.png?_nc_cat=110&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeFphoaffqNCvVR9_GkWpMHEzU-cDW8OTtLNT5wNbw5O0qjHXlWBFQetEIrNCWvlOPf5Uy7NWvIEKYTjOK8bA-Tx&_nc_ohc=-0oOyBM8DwoAX_F_3P2&_nc_ht=scontent.fkrt5-2.fna&oh=00_AT8SJUBl7HVPB94wkrLjm9z8hvyCKjmraJbF_PvdIvx65A&oe=621DD7B4" style="width:15%"></p>
 
 <p align="center">
 PRIVILEGE.SD | MALIK KHALIL MOHAMED | DEVELOPER
@@ -34,5 +34,5 @@ HTML5, CSS and JavaScript for web development.
 
 ## Documentation
 
-Thank you for your time and consideration! The document guide can be found in the [PRIVILEGE SMS documentation](https://privilege.sd/software_show/School%20Management%20System%20(SMS)).
+Thank you for your time and consideration! The document guide can be found in the [PRIVILEGE documentation](https://privilege.sd/software_show/School%20Management%20System%20(SMS)).
 
